@@ -2,7 +2,7 @@
 // part 1
 
 const fs = require('node:fs');
-const data = fs.readFileSync('./dec1_input1.txt', 'utf8');
+const data = fs.readFileSync('./input.txt', 'utf8');
 
 const splitted = data.split("\n")
 
